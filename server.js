@@ -5,4 +5,3 @@ app.listen(config.PORT,()=>{
     console.log("Aplicacion corriendo en el puerto ", 
     config.PORT);
 })
-
